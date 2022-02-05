@@ -1,0 +1,40 @@
+*{  
+    text-align: center;
+    background-color:rgb(19, 21, 24);
+    color:azure;
+}
+
+body{
+    width:70%;
+    margin:auto;
+    margin-top: 2%;
+}
+
+h1{
+    margin:auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #9a7139;
+    color:azure;
+    margin-bottom:3%;
+}
+
+h2{
+    width:50%;
+    margin:auto;
+    background-color:rgb(117, 108, 109);
+    margin-bottom:1%;
+}
+
+p{
+    background-color: #9d9696;
+    margin-bottom:1%;
+}
+
+select{
+    margin-top:1%;
+    border-radius: 23%;
+    border:none;
+    background-color: blanchedalmond;
+    color:black;
+}
+
